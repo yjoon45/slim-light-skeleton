@@ -9,6 +9,6 @@ define('VIEW_PATH', APP_PATH . '/views');
 // database configration
 define('DB_DRIVER', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_DATABASE', 'carcart');
+define('DB_DATABASE', 'dbname');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
