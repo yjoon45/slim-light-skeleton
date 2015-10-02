@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 use Slim\Slim;
 
 $app = new Slim([
-	'debug' 		 => APP_DEBUG,
+	'debug'		 => APP_DEBUG,
 	'templates.path' => VIEW_PATH,
 ]);
 
